@@ -4,13 +4,13 @@
 	<% base_tag %>
 	<link rel="shortcut icon" href="/favicon.ico" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<link rel="stylesheet" href="doscms3/css/CMSLoginForm.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="silverstripecms-lite/css/CMSLoginForm.css" type="text/css" media="screen" />
 </head>
-<body class="dospuntoceroLogin">
+<body class="Login">
 	<div class="form">
 		$Content
-		$Form	
-		$ClearReq		
+		$Form
+		$ClearReq
 	</div>
 </body>
 </html>

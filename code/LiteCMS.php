@@ -1,6 +1,6 @@
 <?php
 
-class DospuntoceroCMS extends LeftAndMainExtension{
+class LiteCMS extends LeftAndMainExtension{
 	
 	function alternateAccessCheck(){
 		// html display simplification
