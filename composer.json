@@ -1,0 +1,21 @@
+{
+    "name": "silverstripe/silverstripecms-lite",
+    "description": "Simplifies the complete CMS backend avoiding extra tabs and any stuff that can scare a client. ",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "CMS", "CMS theme"],
+    "license": "BSD-3-Clause",
+    "authors": [
+    {
+        "name": "Dospuntocero",
+        "email": "fa@dospuntocero.cl"
+    }
+    ],
+    "require":
+    {
+        "silverstripe/framework": "3.*",
+        "silverstripe/cms": "3.*",
+				"undefinedoffset/sortablegridfield": "dev-master",
+				"silverstripe/sortablefile": "dev-master"				
+    },
+    "version": "1.0.0"    
+}
