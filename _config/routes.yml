@@ -1,0 +1,7 @@
+---
+Name: Typography
+After: framework/routes#coreroutes
+---
+Director:
+   rules:
+      'typography' : 'Typography'
