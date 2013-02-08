@@ -3,7 +3,7 @@
 Have you ever wanted a really simple interface on top of our beloved CMS for our clients to enjoy?
 
 
-> SilverstripeCMS Lite its a totally uncluttered version of the CMS, enjoy Zen while work with SilverstripeCMS
+> SilverstripeCMS Lite its a totally uncluttered version of the CMS, enjoy Zen while working with SilverstripeCMS
 
 > — dospuntocero
 
