@@ -45,3 +45,12 @@ The module has bundled some example templates for:
 +	Maintenance view (page that appears when you have your site on maintenance mode)
 
 +	typography, so you can check yout site base typography
+
+## Installation
+
+I recommend composer since this module has some dependencies.
+but you can always do it using **macho-mode**, here you can download the dependencies for this module:
+
++	https://github.com/UndefinedOffset/SortableGridField
+
++	https://github.com/bummzack/sortablefile
