@@ -2,6 +2,10 @@
 
 	class Maintenance extends DataExtension{
 
+
+    	function ClearReq(){Requirements::clear();}
+
+
 		static $db = array(
 			'Maintenance' => 'Boolean'
 		);
