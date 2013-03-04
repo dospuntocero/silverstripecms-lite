@@ -1,5 +1,5 @@
 {
-    "name": "silverstripe/silverstripecms-lite",
+    "name": "dospuntocero/silverstripecms-lite",
     "description": "Simplifies the complete CMS backend avoiding extra tabs and any stuff that can scare a client. ",
     "type": "silverstripe-module",
     "keywords": ["silverstripe", "CMS", "CMS theme"],
@@ -10,6 +10,7 @@
         "email": "fa@dospuntocero.cl"
     }
     ],
+    "replace": {"silverstripe/silverstripecms-lite": "*"},
     "require":
     {
         "silverstripe/framework": "3.*",
