@@ -20,14 +20,3 @@
 #Menu-Help{
 	display: none;
 }
-#Form_EditForm_Metadata,
-.cms-content-tools.west.cms-panel.cms-panel-layout.ui-widget{
-	display: none;
-}
-#tab-Root_Slideshow,
-.cms-tabset-nav-primary.ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all{
-	display: none;
-}
-#cms-menu{
-	width: 250px;
-}
