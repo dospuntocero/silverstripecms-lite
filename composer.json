@@ -13,10 +13,10 @@
     "replace": {"silverstripe/silverstripecms-lite": "*"},
     "require":
     {
-		"silverstripe/framework": "3.*",
-        	"silverstripe/cms": "3.*",
-		"undefinedoffset/sortablegridfield": "dev-master",
-		"silverstripe/sortablefile": "dev-patch-1"
+		"silverstripe/framework": "*",
+        	"silverstripe/cms": "*",
+		"undefinedoffset/sortablegridfield": "*",
+		"silverstripe/sortablefile": "*"
     },
     "version": "1.0.0"    
 }
