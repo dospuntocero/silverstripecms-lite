@@ -10,7 +10,6 @@
         "email": "fa@dospuntocero.cl"
     }
     ],
-    "replace": {"silverstripe/silverstripecms-lite": "*"},
     "require":
     {
 		"silverstripe/framework": "*",
