@@ -14,7 +14,7 @@
     {
 		"silverstripe/framework": "*",
         	"silverstripe/cms": "*",
-		"undefinedoffset/sortablegridfield": "*",
+		"undefinedoffset/sortablegridfield": "dev-master",
 		"silverstripe/sortablefile": "*"
     },
     "version": "1.0.0"    
