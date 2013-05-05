@@ -15,7 +15,7 @@
 		"silverstripe/framework": "*",
         	"silverstripe/cms": "*",
 		"undefinedoffset/sortablegridfield": "dev-master",
-		"bummzack/sortablefile": "*"
+		"bummzack/sortablefile": "dev-many_many"
     },
     "version": "1.0.0"    
 }
